@@ -4,6 +4,9 @@ Progressive Web App Development
 ### Install Requisite
 Install node
 
+### Devtools : Ligthhouse
+https://developers.google.com/web/tools/lighthouse
+
 ### Using VUE
 For Development use:
 <!-- development version, includes helpful console warnings -->
