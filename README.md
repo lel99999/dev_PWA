@@ -8,6 +8,21 @@ $npm -v
 $nvm -v
 
 ```
+#### Initial Project setup
+```
+$mkdir react-wepack
+$cd react-webpack
+$npm init -y
+```
+#### Install webpack and webpack-cli
+```
+$npm i webpack webpack-cli --save-dev
+```
+
+#### Install Babel
+```
+$npm i @babel/core babel-loader @babel/preset-react @babel/preset-env --save-dev
+```
 
 ### with VUE
 
