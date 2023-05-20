@@ -14,6 +14,9 @@ $mkdir react-wepack
 $cd react-webpack
 $npm init -y
 ```
+![npm_init](
+https://github.com/lel99999/dev_PWA/blob/master/npm_init-01.png)
+
 #### Install webpack and webpack-cli
 ```
 $npm i webpack webpack-cli --save-dev
@@ -23,6 +26,13 @@ $npm i webpack webpack-cli --save-dev
 ```
 $npm i @babel/core babel-loader @babel/preset-react @babel/preset-env --save-dev
 ```
+#### Install React
+```
+$npm i react react-dom
+```
+
+
+
 
 ### with VUE
 
